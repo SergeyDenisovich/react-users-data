@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SergeyDenisovich/react-users-data/static/css/main.e0848532.chunk.css",
+    "main.js": "/SergeyDenisovich/react-users-data/static/js/main.f54ef024.chunk.js",
+    "main.js.map": "/SergeyDenisovich/react-users-data/static/js/main.f54ef024.chunk.js.map",
+    "runtime-main.js": "/SergeyDenisovich/react-users-data/static/js/runtime-main.e4b629e1.js",
+    "runtime-main.js.map": "/SergeyDenisovich/react-users-data/static/js/runtime-main.e4b629e1.js.map",
+    "static/js/2.c34306fe.chunk.js": "/SergeyDenisovich/react-users-data/static/js/2.c34306fe.chunk.js",
+    "static/js/2.c34306fe.chunk.js.map": "/SergeyDenisovich/react-users-data/static/js/2.c34306fe.chunk.js.map",
+    "index.html": "/SergeyDenisovich/react-users-data/index.html",
+    "static/css/main.e0848532.chunk.css.map": "/SergeyDenisovich/react-users-data/static/css/main.e0848532.chunk.css.map",
+    "static/js/2.c34306fe.chunk.js.LICENSE.txt": "/SergeyDenisovich/react-users-data/static/js/2.c34306fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4b629e1.js",
+    "static/js/2.c34306fe.chunk.js",
+    "static/css/main.e0848532.chunk.css",
+    "static/js/main.f54ef024.chunk.js"
+  ]
+}
