@@ -1,0 +1,55 @@
+.form input {
+  width: 50%;
+}
+
+.form input,
+.textArea {
+  padding: 5px 10px;
+  border: 1px solid #d8d8d8;
+  border-radius: 5px;
+}
+
+.form label,
+.textAreaLabel {
+  margin-bottom: 5px;
+}
+
+.textArea {
+  padding: 10px;
+  width: 100%;
+  min-height: 100px;
+}
+
+.formHeader {
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  h2 {
+    margin: 0;
+  }
+}
+
+.formContent {
+  width: 100%;
+  padding: 35px 15px 20px;
+
+  border: 2px solid #f3f3f3;
+  border-radius: 8px;
+}
+
+.sendBtn {
+  margin-top: 10px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.form .error {
+  border: 2px solid red;
+}
+
+.errorText {
+  color: red;
+  font-size: 12px;
+}

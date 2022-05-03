@@ -1,0 +1,50 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  background: #f3f3f3;
+}
+
+:root {
+  // btn variants
+  --btn-primary: #4b51ef;
+  --btn-success: #52cf4f;
+  --btn-disabled: #afafaf;
+
+  // fonts
+  --font-family: 'Roboto', sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-family);
+  font-size: 16px;
+  font-weight: 500;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  min-height: 100vh;
+}
+
+.container {
+  max-width: 900px;
+  margin: 10px auto 20px;
+  display: flex;
+}
+
+.user-card {
+  button {
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+  }
+}
+
+.back-btn {
+  position: absolute;
+  bottom: 30px;
+  left: 50px;
+}

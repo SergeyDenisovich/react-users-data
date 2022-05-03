@@ -1,0 +1,36 @@
+.button {
+  padding: 10px 20px;
+  font-size: 14px;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: left;
+
+  &:active {
+    box-shadow: 0 0 10px rgb(171, 170, 170);
+  }
+}
+
+// button variants
+.primary {
+  background: var(--btn-primary);
+}
+.success {
+  background: var(--btn-success);
+}
+.disabled {
+  background: var(--btn-disabled);
+}
+.link {
+  background: transparent;
+  color: var(--btn-primary);
+}
+
+// text representation
+.lower {
+  text-transform: lowercase;
+}
+.upper {
+  text-transform: capitalize;
+}

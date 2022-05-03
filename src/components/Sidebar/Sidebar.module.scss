@@ -1,0 +1,13 @@
+.sidebar {
+  min-width: 200px;
+  padding: 35px 25px;
+  background: #bdbdbd;
+
+  h3 {
+    margin-bottom: 10px;
+  }
+
+  div:not(:last-child) {
+    margin-bottom: 10px;
+  }
+}
